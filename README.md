@@ -1,5 +1,6 @@
-# direction-calculation-cli
-Calculate distances and travel durations between multiple origin and destination locations which uses the Google Maps Directions API
+# pick-a-location-cli
+
+This tool helps to choose a location from where everyone needs to commute the least amount of time. Calculate distances and travel durations between multiple origin and destination locations
 
 ***To use it you need to create a .env file, which contains a valid Google Maps Directions API_KEY***
 
