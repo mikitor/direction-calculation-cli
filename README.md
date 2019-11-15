@@ -16,6 +16,8 @@ Calculate distances and travel durations between multiple origin and destination
 
 ### Example result:
 
+Distance is measured in meters, duration is measured in seconds
+
 ```json
 [
     {
